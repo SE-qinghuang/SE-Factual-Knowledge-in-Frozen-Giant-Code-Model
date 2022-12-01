@@ -1,1 +1,3 @@
-# SE-Factual-Knowledge-in-Frozen-Giant-Code-Model
+Because of the limited capacity of this repository, more data are available at this link https://drive.google.com/file/d/1uHyGGEk8m09vmdLK4cLWns7oVQ9ACm5A/view?usp=sharing.
+
+The data include : source code files of six Github libraries, source code of Stack Overflow, original Github dataset, sampled dataset, SO dataset, 371,610 prompt files and the result in RQ1/RQ2 (Basic configuration, Best configuration, seven variant configurations), four data distribution properties (FQN Length range, FQN Usage Times range, SN:FQN, FQN:SN) in RQ3, 11,600 prompt files and result for SO dataset in RQ4, WordEmbedding corpus and model, FQN Usage Times for every FQN.
